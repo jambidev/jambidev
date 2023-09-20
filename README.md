@@ -12,19 +12,19 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="@jambidev" />
   </a>
   <a href="https://www.facebook.com/hacker.jamb1/">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" title="Ikhsan Satriadi" />
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" title="Mardianto Eka Saputra" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" title="Xibox Code" />
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" title="Koma Solution" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" title="Ikhsan Satriadi" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" title="Mardianto Eka Saputra" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" title="Ikhsan" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" title="PutraDev" />
   </a>
   <a href="mailto:websitedev001@gmail.com">
-    <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" title="ikhsansatriadi175@gmail.com" />
+    <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" title="websitedev001@gmail.com" />
   </a>
 </p>
 
@@ -85,12 +85,12 @@
   <a href="https://www.postman.com/">
     <img height='25em' src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
   </a>
-  <!-- <a href="https://brave.com/">
+   <a href="https://brave.com/">
     <img height='25em' src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" />
-  </a> -->
-  <!-- <a href="https://aws.amazon.com/">
+  </a>
+  <a href="https://aws.amazon.com/">
     <img height='25em' src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  </a> -->
+  </a>
   <a href="https://git-scm.com/">
     <img height='25em' src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   </a>
@@ -136,7 +136,6 @@
   </a>
 </p>
 
-<!--
 **jambidev/jambidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -149,4 +148,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
