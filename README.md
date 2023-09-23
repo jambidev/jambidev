@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, My name is <span style="color:purple;">Mardianto Eka Saputra</span></h1>
 
-<h3 align="center">A passionate developer from Kota Jambi</h3>
+<h3 align="center" style="color:#f03c15;">A passionate developer from Kota Jambi</h3>
 
 - ✨ Creating bugs since 2021
 
