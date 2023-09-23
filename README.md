@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, My name is Mardianto Eka Saputra</h1>
 
-<h3 align="center">A passionate developer from Indonesia</h3>
+<h3 align="center">A passionate developer from Kota Jambi</h3>
 
 - ✨ Creating bugs since 2021
 
