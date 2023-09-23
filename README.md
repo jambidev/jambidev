@@ -1,4 +1,4 @@
-! <h1 align="center">Hi 👋, My name is <span style="color=purple;">Mardianto Eka Saputra</span></h1>
+<h1 align="center">Hi 👋, My name is <span style="color=purple;">Mardianto Eka Saputra</span></h1>
 
 <h3 align="center" style="color:#f03c15;">A passionate developer from Kota Jambi</h3>
 
