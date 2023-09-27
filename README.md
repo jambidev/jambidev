@@ -147,11 +147,6 @@
  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jambidev&theme=radical" alt="jambidev" /></p>
 
-No. Ijazah : TI.S1.2013.1202.004
-02 DES 2013 - 02-12-2013
-ktp : 1571070103920021
-1571070103920021
-
 name: Wakatime Charts
 
 on:
