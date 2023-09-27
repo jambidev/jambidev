@@ -146,5 +146,25 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jambidev&show_icons=true&locale=en&theme=radical" alt="jambidev" /></p>
  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jambidev&theme=radical" alt="jambidev" /></p>
- 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JambiDev&layout=compact&theme=radical)](https://github.com/jambidev/jambidev)
+
+No. Ijazah : TI.S1.2013.1202.004
+02 DES 2013 - 02-12-2013
+ktp : 1571070103920021
+1571070103920021
+
+name: Wakatime Charts
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  update-charts:
+    name: Update wakatime stats charts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: dvjn/wakatime-charts@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.waka_d4a9af42-b4a8-4524-b6f9-e004abf9b450 }}
+          GITHUB_TOKEN: ${{ secrets.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 }} # only required if using the action in repository other than profile
