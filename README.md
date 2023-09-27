@@ -147,4 +147,4 @@
  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jambidev&theme=radical" alt="jambidev" /></p>
  
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jambidev&layout=compact&theme=radical)](https://github.com/jambidev/jambidev)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JambiDev&layout=compact&theme=radical)](https://github.com/jambidev/jambidev)
