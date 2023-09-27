@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, My name is <span style="color=purple;">Mardianto Eka Saputra</span></h1>
+<img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=6c09b952eohbdq5kxhnzxcqv6gaao256eg3rjkl0ytybum5j&ep=v1_stickers_related&rid=giphy.gif&ct=s">
 
 <h3 align="center" style="color:#f03c15;">A passionate developer from Kota Jambi</h3>
-<img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=6c09b952eohbdq5kxhnzxcqv6gaao256eg3rjkl0ytybum5j&ep=v1_stickers_related&rid=giphy.gif&ct=s">
+
 
 - ✨ Creating bugs since 2021
 
